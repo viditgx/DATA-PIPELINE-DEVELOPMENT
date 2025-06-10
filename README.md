@@ -43,3 +43,7 @@ When you run the Python script, two files will be created in your folder:
 train_data.csv — the training data
 
 test_data.csv — the testing data
+
+*OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a1e31436-51dd-45f7-b9d0-0a11cf6047f6)
